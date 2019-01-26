@@ -1,5 +1,5 @@
 # BotForSchool
-По всем вопросам пишите в [ВК](https://vk.com/igorgoryainov)
+По всем вопросам пишите в [ВК](https://vk.com/igorgoryainov) \n
 Для проверки работы бота, достаточно изменить в bot.py строку с 'token'
 ![screenshot of sample](https://imyzik.ru/wp-content/uploads/2018/01/photo_2018-01-10_11-17-36.jpg)
 `Чтобы указать домашнее задание на любой день недели, нужно написать боту следующее сообщение:`
