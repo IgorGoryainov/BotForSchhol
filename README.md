@@ -1,2 +1,2 @@
 # BotForSchool
-# BotForSchool
+# Юзайте на здоровье
