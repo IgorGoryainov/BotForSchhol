@@ -1,2 +1,2 @@
-# BotForSchhol
-# BotForSchhol
+# BotForSchool
+# BotForSchool
